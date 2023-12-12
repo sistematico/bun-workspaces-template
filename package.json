@@ -1,0 +1,14 @@
+{
+  "name": "bun-workspaces-template",
+  "type": "module",
+  "workspaces": ["app/*"],
+  "scripts": {
+    "clean": "rm -rf node_modules bun.lockb app/*/node_modules app/*/bun.lockb"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
