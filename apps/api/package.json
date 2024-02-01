@@ -1,5 +1,5 @@
 {
-  "name": "@bun/a",
+  "name": "@bun-workspaces-template/api",
   "module": "index.ts",
   "type": "module",
   "dependencies": {
