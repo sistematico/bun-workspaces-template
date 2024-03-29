@@ -1,6 +1,6 @@
 {
   "name": "bun-workspaces-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Lucas Saliés Brum <paxa@paxa.dev> (https://paxa.dev)",
   "type": "module",
   "workspaces": ["apps/*"],
@@ -11,6 +11,6 @@
     "bun-types": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.4.3"
   }
 }

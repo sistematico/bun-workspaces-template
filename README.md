@@ -22,6 +22,9 @@ bun apps/site/index.ts
 
 ## 🕐 ChangeLog
 
+- `2024/03/29` - updated bun to 1.0.36
+  - Modified [.gitignore](./.gitignore)
+  - Upgraded TypeScript to `5.4.3` [package.json](./package.json)
 - `2024/01/17` - updated bun to 1.0.23
   - Added [Github Action](./.github/workflows/deploy.yml)
   - Added [deploy script](./scripts/deploy.sh)
