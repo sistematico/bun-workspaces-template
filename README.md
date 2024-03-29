@@ -30,5 +30,5 @@ bun apps/site/index.ts
   - Added [deploy script](./scripts/deploy.sh)
 - `2023/12/29` - updated bun to 1.0.20
 
-This project was created using `bun init` in bun v1.0.23.
+This project was created using `bun init` in bun v1.0.36.
 [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
