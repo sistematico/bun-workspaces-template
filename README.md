@@ -22,6 +22,7 @@ bun apps/site/index.ts
 
 ## 🕐 ChangeLog
 
+- `2024/06/18` - changed checkout@v3 to checkout@v4 on Github Actions
 - `2024/06/16` - updated bun to 1.1.13
   - Added Bun to PATH on Github Action
 - `2024/03/29` - updated bun to 1.0.36
